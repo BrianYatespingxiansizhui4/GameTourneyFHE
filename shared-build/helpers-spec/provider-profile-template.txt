@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\shared-build\helpers-spec\provider-profile-template.txt
+// Generated at: 2025-10-12T16:01:05.007Z
